@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\Encapsulamento_POO.exe
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\Encapsulamento_POO.deps.json
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\Encapsulamento_POO.runtimeconfig.json
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\Encapsulamento_POO.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\Encapsulamento_POO.dll
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\ref\Encapsulamento_POO.dll
+C:\Users\Leandro\Desktop\Encapsulamento_POO\bin\Debug\net5.0\Encapsulamento_POO.pdb
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.dll
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\ref\Encapsulamento_POO.dll
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.pdb
+C:\Users\Leandro\Desktop\Encapsulamento_POO\obj\Debug\net5.0\Encapsulamento_POO.genruntimeconfig.cache
